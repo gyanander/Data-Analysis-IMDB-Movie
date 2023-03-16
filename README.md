@@ -2,6 +2,7 @@ Title: Data-Analysis-Project-IMBD-Movie-Dataset-by-Python
 
 
 Problem Statement:
+
                 The objective of this Project is to explore the Kaggle Movies dataset and answer some 
                 Interesting Questions like which is most Popular Movie based on Revenue,Most Produced                 genre In which Year highest Movies were Released,Which Director have highest avg                       Rating.Top 3 lenthy Movies Does Rating affects the Revenue of the Movies.
                  
@@ -9,6 +10,7 @@ Problem Statement:
                 
                 
  Solution Overview:
+ 
                    Post the Data Cleaning ,Univariate and Multi-Variate exploration of the Data helped 
                    us answer of above Questions.
                    
