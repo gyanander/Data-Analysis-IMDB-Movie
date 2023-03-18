@@ -1,5 +1,5 @@
 Project: 
-        Data-Analysis-Project-IMBD-Movie-Dataset-by-Python
+        Data-Analysis-Project-IMDB-Movie-Dataset-by-Python
 
 
 Problem Statement:
